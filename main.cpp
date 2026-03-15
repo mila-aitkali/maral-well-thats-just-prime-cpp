@@ -1,9 +1,6 @@
 #include <iostream>
 #include <vector>
 #include "src/prime.hpp"
-#include <iostream>
-#include <vector>
-
 
 void printFactors(const std::vector<int>& factors)
 {
